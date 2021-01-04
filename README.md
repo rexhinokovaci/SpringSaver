@@ -22,7 +22,7 @@ Times taken: {$time}/ 7460 minutes Tests taken: {$testT}/ 34 Tests Log Files: C/
 ![ikub al - Portali Kryesor i Informacionit per Shqiptaret - Google Chrome 1_4_2021 7_55_18 PM](https://user-images.githubusercontent.com/55946528/103568980-d04b0280-4ec6-11eb-8ab1-498869beb207.png)
 
 
-# This shows that findDepartments works! Let's see Spring Saver Sarve some Api's as a bartender!
+# This shows that findDepartments works! Let's see Spring Saver Serve some Api's as a bartender!
 
 CRUD METHODS
 
