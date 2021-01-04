@@ -26,31 +26,31 @@ Times taken: {$time}/ 7460 minutes Tests taken: {$testT}/ 34 Tests Log Files: C/
 
 ## CRUD METHODS
 
-Database Departments
+# Database Departments
 
 ![MySQL Workbench 1_4_2021 8_12_13 PM](https://user-images.githubusercontent.com/55946528/103570401-549e8500-4ec9-11eb-9dcc-3cd4980d0aa9.png)
 
-DATABASE Employees
+# DATABASE Employees
 ![MySQL Workbench 1_4_2021 8_12_35 PM](https://user-images.githubusercontent.com/55946528/103570404-55371b80-4ec9-11eb-8bb3-aeff8dbc434c.png)
 
-Create
+# Create
 ![Postman 1_4_2021 7_57_35 PM](https://user-images.githubusercontent.com/55946528/103570407-55cfb200-4ec9-11eb-9e9b-5aa23adecc47.png)
 
-Create
+# Create
 ![Postman 1_4_2021 7_57_46 PM](https://user-images.githubusercontent.com/55946528/103570408-55cfb200-4ec9-11eb-9dae-f3747c0a51da.png)
 
-Find All Departments
+# Find All Departments
 ![Postman 1_4_2021 7_58_33 PM](https://user-images.githubusercontent.com/55946528/103570411-56684880-4ec9-11eb-955b-242ac0ad8f25.png)
 
-FindByName
+# FindByName
 ![Postman 1_4_2021 8_08_00 PM](https://user-images.githubusercontent.com/55946528/103570412-56684880-4ec9-11eb-82b5-4e00c0c32be6.png)
 
-Update
+# Update
 ![Postman 1_4_2021 8_11_47 PM](https://user-images.githubusercontent.com/55946528/103570413-5700df00-4ec9-11eb-8e9f-4780ce23125e.png)
 
-Delete
+# Delete
 ![Postman 1_4_2021 8_24_26 PM](https://user-images.githubusercontent.com/55946528/103571300-ea86df80-4eca-11eb-8e02-cf0a1b94e598.png)
-Verify Delete
+# Proof of Delete
 ![Postman 1_4_2021 8_24_44 PM](https://user-images.githubusercontent.com/55946528/103571308-ebb80c80-4eca-11eb-94ec-95f9f186084d.png)
 
 
