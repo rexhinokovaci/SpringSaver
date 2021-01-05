@@ -63,3 +63,5 @@ Times taken: {$time}/ 7460 minutes Tests taken: {$testT}/ 34 Tests Log Files: C/
 
 
 https://youtu.be/XCeGBjOg9-A
+
+Soon to be published full app including react-client
